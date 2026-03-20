@@ -1,0 +1,9 @@
+{
+  "clangd.arguments": [
+    "--query-driver=/opt/homebrew/bin/avr-gcc"
+  ],
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}",
+    "${workspaceFolder}/**"
+  ]
+}
